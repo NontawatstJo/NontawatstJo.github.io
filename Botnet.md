@@ -20,8 +20,7 @@ Account takeover attacks and credential stuffing are among the most dangerous us
 **แล้วเราจะป้องกัน Botnet ได้อย่างไร**
 
 Reference 
-> https://www.guru99.com/dbms-keys.html](https://www.akamai.com/glossary/what-is-a-botnet)https://www.akamai.com/glossary/what-is-a-botnet
-
+> https://www.akamai.com/glossary/what-is-a-botnet
 - - -
 
 **Botnet คืออะไร ?**
