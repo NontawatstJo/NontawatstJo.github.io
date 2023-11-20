@@ -8,3 +8,6 @@
 
 - - -
 ## Vocabuary
++ [Botnet](Botnet)
++ [Malware](Malware)
++ [Zero-day attack](Zero-day attack)
