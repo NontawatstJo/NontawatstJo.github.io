@@ -1,5 +1,10 @@
 # Zero Day Attack
 - - -
+
+<p align="center">
+         <img src="img/zero-day.jpg" />
+     </p>
+     
 **What is Zero Day Attack?**
 
   There are many types of security vulnerabilities and opportunities for cyberattacks. Businesses are responsible for keeping their organizations protected against these attacks, both to adhere to regulatory compliance and to keep their employees, customers, and proprietary data safe. One of the most common and most difficult flaws to protect against is a zero day vulnerability, but what is a zero day vulnerability, and how can it be exploited?
@@ -22,10 +27,6 @@
 **How to Protect Against Zero Day Attacks**
 
   It’s difficult to protect yourself from the possibility of a zero day attack, since they can take many forms. Almost any type of security vulnerability could be exploited as a zero day if a patch is not produced in time. Additionally, many software developers intentionally try not to publicly reveal the vulnerability, the hopes that they can issue a patch before any hackers discover that the vulnerability is present.
-
-<p align="center">
-         <img src="img/zero-day.png" />
-     </p>
 
 Reference 
 > https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-zero-day-attack/
